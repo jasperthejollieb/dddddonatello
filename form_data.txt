@@ -1,0 +1,12 @@
+Email: a@b.com
+Query: asdfadf
+
+Email: a@b.com
+Query: adssad
+
+Email: a@b.com
+Query: adfdga
+
+Email: a@b.com
+Query: gfh
+
